@@ -1,0 +1,27 @@
+# Quartus / Platform Designer generated outputs
+**/output_files/
+**/db/
+**/incremental_db/
+**/software/linux-socfpga/
+**/software/spl_bsp/
+**/hps_isw_handoff/
+*.sof
+*.rbf
+*.sopcinfo
+*.rpt
+*.vcd
+*.qws
+*.jdi
+*.smsg
+*.log
+# Local compiled binaries
+software/stereo
+software/serial_frame_decode
+software/build/
+# Local and editor data
+.DS_Store
+.vscode/
+__pycache__/
+*.pyc
+screenlog.*
+stereo_projection.txt
